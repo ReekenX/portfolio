@@ -17,6 +17,7 @@ Tweak Things Organization Website
     </td>
     <td width="50%">
       <p>Landing page for my personal agency.</p>
+      <p>This is the place I list my Passive Annual Revenue, projects and commits count.</p>
       <p>Built with Jekyll, hosted on Netlify, served with Netlify Functions and FaunaDB.</p>
       <p>Source code:<br/>https://github.com/ReekenX/www.tweakthings.com</p>
       <p>Live site:<br/>https://www.tweakthings.com</p>
